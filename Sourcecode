@@ -1,0 +1,21 @@
+React Frontend
+Plain Text
+frontend/
+├── src/
+│ ├── App.js
+│ ├── Login.js
+│ ├── Dashboard.js
+│ └── ...
+├── public/
+├── package.json
+Show more lines
+Django Backend
+Plain Text
+backend/
+├── accounts/
+├── courses/
+├── lessons/
+├── quizzes/
+├── enrollments/
+├── lms/
+├── manage.py
